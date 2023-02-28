@@ -1,0 +1,4 @@
+Running: xsim.dir/Bound_Flasher_tb_behav/xsimk.exe -simmode gui -wdb Bound_Flasher_tb_behav.wdb -simrunnum 0 -socket 53590
+Design successfully loaded
+Design Loading Memory Usage: 7804 KB (Peak: 7804 KB)
+Design Loading CPU Usage: 0 ms
